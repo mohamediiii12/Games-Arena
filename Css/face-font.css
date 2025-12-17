@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Days One';
+    src: url('../WebFonts/DaysOne-Regular.woff2') format('woff2'),
+        url('../WebFonts/DaysOne-Regular.woff') format('woff'),
+        url('../WebFonts/DaysOne-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('../WebFonts/ChakraPetch-Bold.woff2') format('woff2'),
+        url('../WebFonts/ChakraPetch-Bold.woff') format('woff'),
+        url('../WebFonts/ChakraPetch-Bold.ttf') format('truetype');
+        
+    font-weight: 700;
+    
+}
+
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('../WebFonts/ChakraPetch-Regular.woff2') format('woff2'),
+        url('../WebFonts/ChakraPetch-Regular.woff') format('woff')
+        url('../WebFonts/ChakraPetch-Regular.ttf') format('truetype');
+    font-weight: 400;
+    
+}
+
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('../WebFonts/ChakraPetch-Medium.woff2') format('woff2'),
+        url('../WebFonts/ChakraPetch-Medium.woff') format('woff')
+        url('../WebFonts/ChakraPetch-Medium.ttf') format('truetype');
+    font-weight: 500;
+    
+}
+
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('../WebFonts/ChakraPetch-Light.woff2') format('woff2'),
+        url('../WebFonts/ChakraPetch-Light.woff') format('woff')
+        url('../WebFonts/ChakraPetch-Light.ttf') format('truetype');
+    font-weight: 300;
+    
+}
+
+@font-face {
+    font-family: 'Chakra Petch';
+    src: url('../WebFonts/ChakraPetch-SemiBold.woff2') format('woff2'),
+        url('../WebFonts/ChakraPetch-SemiBold.woff') format('woff')
+        url('../WebFonts/ChakraPetch-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    
+}
